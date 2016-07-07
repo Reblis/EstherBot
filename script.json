@@ -1,5 +1,5 @@
 {
-    "ABOUT": "Hi there!\nI’m the personal bot of Reblis, a UX Designer from Maryland.\n![reblis](https://raw.githubusercontent.com/Reblis/ReblisBot/master/img/reblis.jpg)\nWant to know more about bots or learn about Reblis? %[ABOUT](postback:reblis) %[Learn about Reblis](postback:learn_about_reblis) %[Latest Side Project](postback:side_project)",
+    "ABOUT": "Hi there!\nI’m the personal bot of Reblis, a UX Designer from Maryland.\n![reblis](https://raw.githubusercontent.com/Reblis/ReblisBot/master/img/reblis.jpg)\nWant to know more about bots or learn about Reblis? %[About](postback:reblis) %[Portfolio](postback:portfolio) %[Resume](postback:resume) %[Latest Side Project](postback:side_project)",
     "HELLO": "Hey, I'm so glad you set ReblisBot up! Do you want to tell Reblis that you're talking to his bot? %[Tweet](postback:twitter)",
     "HEY": "Hey is for horses!",
     "TWEET": "Let's tweet @ Reblis so everyone knows to try it out. Here's a tweet that's ready to go: %[Tweet Reblis](http://bit.ly/29nn7Ow)",
